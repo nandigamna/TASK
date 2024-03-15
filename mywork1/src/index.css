@@ -1,0 +1,39 @@
+body {
+  
+  color: black;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+#unorderlist
+{
+  color: white;
+  background-color: blue;
+  list-style: none;
+  display: flex;
+  height: 70px;
+  padding-top: 35px;
+  
+}
+#LI-tag
+{
+  color: white;
+  margin-left: 100px;
+  font-size: 20px;
+  text-decoration: none;
+  font-weight: 900;
+}
+#LI-tag:hover
+{
+  background-color: white;
+  color: red;
+  font-weight: 900;
+  border: 2px solid white;
+  padding: 8px 20px 8px 20px;
+  font-size: 22px;
+  
+}
+
+

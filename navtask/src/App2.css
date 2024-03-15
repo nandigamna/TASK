@@ -1,0 +1,15 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#up-inp{
+    width: 100%;
+    border-radius: 10px;
+    border: 2px upset white;
+    color: white;
+    background-color: gray;
+    &::placeholder{
+        text-align: center;
+        color: white;
+    }
+}

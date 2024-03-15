@@ -1,0 +1,58 @@
+:root{
+    padding: 0px;
+    margin: 0px;
+    background-color: blue;
+}
+#chan{
+    float: right;
+    margin-top: -150px;
+    margin-right: 100px;
+    padding: 15px 20px 15px 20px;
+    border-radius: 30px;
+    border: 2px solid white;
+    font-weight: 900;
+}
+#main{
+    border: 2px solid black;
+    width: 35%;
+    padding: 40px 0px 40px 100px;
+    margin-left: 450px;
+    margin-top: 8px;
+    background-color: blue;
+    border: 2px solid white;
+}
+#inp{
+    width: 80%;
+    height: 70px;
+    font-weight: 900;
+    background-color: white;
+}
+#but1,#but2,#but3,#but4,#but5{
+    padding: 6px 10px;
+    margin-top: 10px;
+    background-color:orangered;
+    color: white;
+    font-weight: 900;
+    border: 2px solid white;
+}
+#but2{
+    margin-left: 50px;
+}
+#but4{
+    margin-left: 50px;
+}
+#but1:hover,#but2:hover,#but3:hover,#but4:hover,#but5:hover
+{
+    background-color: red;
+    cursor: pointer;
+    padding: 7px 11px;
+}
+#but1:active,#but2:active,#but3:active,#but4:active,#but5:active{
+    background-color: rgb(12, 255, 49);
+
+}
+#sub{
+    text-align: center;
+    margin-top: 200px;
+    font-weight: 900;
+}

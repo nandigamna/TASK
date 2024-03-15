@@ -1,0 +1,28 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#name{
+    text-align: center;
+    margin-top: 50px;
+    font-weight: bolder;
+    background-image: url('https://t3.ftcdn.net/jpg/05/28/86/66/360_F_528866602_aiVwnOnkooTrqo3MgicCf83SVVzt1Gnd.jpg');
+    background-size: cover;
+    background-clip: text;
+    color: transparent;
+    font-size: 40px;
+
+}
+#content
+{
+    margin: 30px 100px 0px 100px;
+    font-size: 25px;
+}
+#img
+{
+    margin:30px 20px 0px 20px ;
+}
+#img:hover
+{
+    transform: scale(0.9);
+}

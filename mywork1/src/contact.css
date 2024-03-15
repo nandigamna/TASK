@@ -1,0 +1,29 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#detailes
+{
+    text-align: center;
+    margin-top: 60px;
+}
+#name4
+{
+    color: green;
+    font-size: 60px;
+    margin-bottom: 60px;
+}
+#name4-1
+{
+    margin-top: 30px;
+    font-size: 20px;
+}
+a{
+    text-decoration: none;
+    color: orangered;
+}
+a:hover
+{
+    color: red;
+    font-size: 22px;
+}

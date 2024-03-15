@@ -1,0 +1,21 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+#full-nav{
+    background-color: black;
+    color: white;
+    height: 100vh;
+}
+#nav-1{
+    color: white;
+    text-decoration: none;
+}
+#nav-0:hover,#nav-1:hover{
+
+    background-color: white;
+    color: black;
+    padding: 5px 12px;
+    font-weight: bolder;
+    cursor: pointer;
+}

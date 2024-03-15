@@ -1,0 +1,48 @@
+*
+{
+  padding: 0px;
+  margin: 0px;
+}
+#main
+{
+  /* background-color: blue; */
+  width: 30%;
+  height: 480px;
+  padding-top: 60px;
+  margin: 140px 0px 0px 520px;
+  text-align: center;
+  background-image: url("https://images.pexels.com/photos/531880/pexels-photo-531880.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+  /* background-image: url("https://images.pexels.com/photos/949587/pexels-photo-949587.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"); */
+  border: 1px solid white;
+  
+}
+#fname,#lname,#numb,#mail,#pass{
+  padding:12px 22px;
+  margin-top: 22px;
+  font-weight: 700;
+}
+#but{
+  padding: 15px 45px;
+  margin-top:40px ;
+  font-weight: 900;
+}
+#but:hover
+{
+  color: white;
+  padding: 16px 47px;
+  border: 2px solid white;
+  background-color: rgb(46, 154, 243);
+  cursor: pointer;
+}
+
+
+
+
+#qrcode
+{
+  margin-top: -800px;
+  margin-left: 600px;
+  border: 1px solid white ;
+  /* visibility: hidden; */
+
+}

@@ -1,0 +1,113 @@
+[
+    {
+        "id": 1,
+        "answer": 4,
+        "question": "what is pop()?",
+        "options": [
+            "adding first element",
+            "adding last element",
+            "remove first element",
+            "remove last element"
+        ]
+    },
+    {
+        "id": 2,
+        "answer": 2,
+        "question": "what is push()?",
+        "options": [
+            "adding first element",
+            "adding last element",
+            "remove first element",
+            "remove last element"
+        ]
+    },
+    {
+        "id": 3,
+        "answer": 3,
+        "question": "what is a local storage?",
+        "options": [
+            "accessing only d drive",
+            "accessing only c drive",
+            "accessing any window",
+            "all of them"
+        ]
+    },
+    {
+        "id": 4,
+        "answer": 4,
+        "question": "which object ....this keyword ?",
+        "options": [
+            "local object",
+            "direct object",
+            "indirect object",
+            "global object"
+        ]
+    },
+    {
+        "id": 5,
+        "answer": 1,
+        "question": "javascript is an ___language?",
+        "options": [
+            "Object-oriented",
+            "Object-Based",
+            "Procedural",
+            "None of the above"
+        ]
+    },
+    {
+        "id": 6,
+        "answer": 3,
+        "question": "var a=salaar; b=a.substring(2,4); document.write(b)",
+        "options": [
+            "al",
+            "ala",
+            "la",
+            "laa"
+        ]
+    },
+    {
+        "id": 7,
+        "answer": 2,
+        "question": "print(NaN===NaN) ?",
+        "options": [
+            "true",
+            "false",
+            "undefined",
+            "Error"
+        ]
+    },
+    {
+        "id": 8,
+        "answer": 2,
+        "question": "which function used object into a JSON string?",
+        "options": [
+            "parse()",
+            "stringify()",
+            "convert()",
+            "number()"
+        ]
+    },
+    {
+        "id": 9,
+        "answer": 4,
+        "question": "which of the following are closures in javascript ?",
+        "options": [
+            "variables",
+            "function",
+            "object",
+            "all of the above"
+        ]
+    },
+    {
+        "id": 10,
+        "answer": 3,
+        "question": "print(typeof(NaN))",
+        "options": 
+        [
+            "object",
+            "string",
+            "number",
+            "Error"
+        ]
+    }
+]
